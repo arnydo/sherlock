@@ -44,6 +44,14 @@
     "url": "https://{}.en.aptoide.com/",
     "urlMain": "https://en.aptoide.com/"
   },
+    "Asciinema": {
+    "errorType": "status_code",
+    "rank": 1121,
+    "url": "https://asciinema.org/~{}",
+    "urlMain": "https://asciinema.org/",
+    "username_claimed":   "admin",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "AskFM": {
     "errorType": "status_code",
     "rank": 1121,
